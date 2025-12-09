@@ -29,7 +29,7 @@ reliable, and streamlined installation experience.
 Run this command to automatically install ALL blueprints:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/blueprint-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/shivp7182/Blueprint-auto-installer/main/blueprint-installer.sh)
 ```
 ------------------------------------------------------------
 📂 FEATURES
